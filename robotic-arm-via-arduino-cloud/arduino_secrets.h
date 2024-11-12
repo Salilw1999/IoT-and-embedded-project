@@ -1,0 +1,3 @@
+#define SECRET_DEVICE_KEY "o6KXccHTNfz6ieazKkYS6BTUY"
+#define SECRET_OPTIONAL_PASS "12345678"
+#define SECRET_SSID "Salil OnePlus"
